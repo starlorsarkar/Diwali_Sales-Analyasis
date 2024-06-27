@@ -1,5 +1,5 @@
 # Diwali_Sales-Analyasis
-Diwali Sales Analysis
+
 Problem Statement
 The goal of this project is to analyze sales data from the Diwali season to uncover trends, customer preferences, and key performance indicators (KPIs). This analysis aims to provide actionable insights for improving sales strategies, optimizing product offerings, and enhancing customer targeting during the festive period.
 
