@@ -25,8 +25,7 @@ Tools and Technologies
 Python: For data analysis, visualization, and modeling.
 Pandas: For data manipulation and analysis.
 Matplotlib & Seaborn: For creating visualizations.
-SQL: For querying and managing the database.
-Excel: For additional data manipulation and reporting.
+
 Findings and Recommendations
 Target Marketing Campaigns: Focus on married women aged 26-35 from Uttar Pradesh, Maharashtra, and Karnataka working in IT, Healthcare, and Aviation, as they are more likely to buy products from Food, Clothing, and Electronics categories.
 Optimize Product Offerings: Increase inventory and promotions for top-selling product categories to meet customer demand and maximize sales.
