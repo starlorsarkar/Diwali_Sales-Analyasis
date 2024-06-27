@@ -1,9 +1,9 @@
 # Diwali_Sales-Analyasis
 
-Problem Statement
+**Problem Statement**
 The goal of this project is to analyze sales data from the Diwali season to uncover trends, customer preferences, and key performance indicators (KPIs). This analysis aims to provide actionable insights for improving sales strategies, optimizing product offerings, and enhancing customer targeting during the festive period.
 
-Key Performance Indicators (KPIs) Identified
+**Key Performance Indicators (KPIs) Identified**
 Total Sales Revenue: The overall revenue generated during the Diwali season, helping to understand the financial performance during this period.
 Number of Transactions: The total count of transactions, indicating the volume of sales.
 Average Transaction Value (ATV): The average amount spent per transaction, useful for assessing customer spending behavior.
